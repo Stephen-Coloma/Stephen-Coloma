@@ -15,7 +15,7 @@ const filipino = {
           photography: ["sea", "sky", "cityscapes"],
           goal: "Software Engineer"
         },
- challenge: "I am learning different data structures using Java."
+ challenge: "I am learning data structures using Java."
 };
 ```
 
