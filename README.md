@@ -10,12 +10,13 @@
 const filipino = {
   pronouns: "he | him",
   code: [Javascript, HTML, CSS, Python, Java],
+  tools: [Android Studio, Firebase]
   life: {
           guitar: "beginner",
           photography: ["sea", "sky", "cityscapes"],
           goal: "Software Engineer"
         },
- challenge: "I am learning data structures using Java."
+ interests: "Databases, Client-Server Programming, APIs"
 };
 ```
 
