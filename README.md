@@ -15,7 +15,7 @@ const filipino = {
           photography: ["sea", "sky", "cityscapes"],
           goal: "Software Engineer"
         },
- interests: "Databases, Client-Server Programming, APIs"
+ interests: "Web Development, Databases, APIs"
 };
 ```
 
