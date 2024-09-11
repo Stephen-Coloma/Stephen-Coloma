@@ -9,13 +9,13 @@
 ```javascript
 const filipino = {
   pronouns: "he | him",
-  code: code: ["JavaScript", "HTML", "CSS", "Python", "Java"],
+  code: code: [JavaScript, HTML, CSS, Python, Java],
   life: {
           guitar: "beginner",
           photography: ["sea", "sky", "cityscapes"],
           goal: "Software Engineer"
         },
- interests: ["Web Development", "Databases", "APIs"]
+ interests: [Web Development, Databases, APIs]
 };
 ```
 
