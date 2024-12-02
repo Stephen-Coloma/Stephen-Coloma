@@ -9,7 +9,7 @@
 ```javascript
 const filipino = {
   pronouns: "he | him",
-  code: code: [JavaScript, HTML, CSS, Python, Java],
+  code: code: [JavaScript, HTML, CSS, Typescript, Java],
   life: {
           guitar: "beginner",
           photography: ["sea", "sky", "cityscapes"],
