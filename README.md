@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Stephen Coloma! 👋</h2>
+<h1 align="center">Hi, I'm Stephen Coloma! 👋</h1>
 
 <p>
 I build <mark><strong>real-world software<strong></mark> that solves actual problems.
@@ -10,7 +10,7 @@ I enjoy turning ideas into <mark><strong>full-stack applications<strong></mark>.
   •📩 Reach me at <a href="mailto:stephen.m.coloma@gmail.com">stephen.m.coloma@gmail.com</a>
 </h4>
 
-<img align='right' src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="220">
+<img align='right' src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="215">
 
 ```javascript
 const filipino = {
@@ -24,6 +24,8 @@ const filipino = {
  interests: [AWS, Devops, Startup]
 };
 ```
+
+
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
