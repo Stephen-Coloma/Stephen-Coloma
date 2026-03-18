@@ -10,7 +10,7 @@ I enjoy turning ideas into <mark><strong>full-stack applications<strong></mark>.
   •📩 Reach me at <a href="mailto:stephen.m.coloma@gmail.com">stephen.m.coloma@gmail.com</a>
 </h4>
 
-<img align='right' src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="230">
+<img align='right' src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="220">
 
 ```javascript
 const filipino = {
