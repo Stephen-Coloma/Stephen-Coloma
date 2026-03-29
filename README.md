@@ -7,7 +7,8 @@ I enjoy turning ideas into <mark><strong>full-stack applications<strong></mark>.
 
 <h4>
   •💻 Senior CS student at <a href="https://www.slu.edu.ph/">Saint Louis University</a><br>
-  •📩 Reach me at <a href="mailto:stephen.m.coloma@gmail.com">stephen.m.coloma@gmail.com</a>
+  •🌐 Visit my site at <a href="https://stephencoloma.com">stephencoloma.com</a><br>
+  •📩 Reach me at <a href="mailto:hello@stephencoloma.com">hello@stephencoloma.com</a><br>
 </h4>
 
 <img align='right' src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="204">
